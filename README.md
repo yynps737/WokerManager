@@ -10,10 +10,10 @@
 
 ## 下载地址
 <tabs>
-    <tab title="测试程序软件">
+    <tab title="test">
         <code-block lang="plain text">https://wwsd.lanzouk.com/i4z6v2h4fj4h</code-block>
     </tab>
-    <tab title="源代码">
+    <tab title="test">
 <code-block lang="plain text">https://wwsd.lanzouk.com/iCcyw2h4fmhi</code-block>
     </tab>
 </tabs>
