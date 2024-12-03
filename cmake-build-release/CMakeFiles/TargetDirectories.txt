@@ -1,0 +1,7 @@
+C:/Users/kikib/CLionProjects/untitled/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/kikib/CLionProjects/untitled/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/Users/kikib/CLionProjects/untitled/cmake-build-release/src/CMakeFiles/untitled.dir
+C:/Users/kikib/CLionProjects/untitled/cmake-build-release/src/CMakeFiles/edit_cache.dir
+C:/Users/kikib/CLionProjects/untitled/cmake-build-release/src/CMakeFiles/rebuild_cache.dir
+C:/Users/kikib/CLionProjects/untitled/cmake-build-release/include/CMakeFiles/edit_cache.dir
+C:/Users/kikib/CLionProjects/untitled/cmake-build-release/include/CMakeFiles/rebuild_cache.dir
