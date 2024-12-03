@@ -11,10 +11,10 @@
 ## 下载地址
 <tabs>
     <tab title="test">
-        <code-block lang="plain text">https://wwsd.lanzouk.com/i4z6v2h4fj4h</code-block>
+        <code-block lang="plain text">测试版本:https://wwsd.lanzouk.com/i4z6v2h4fj4h</code-block>
     </tab>
     <tab title="test">
-<code-block lang="plain text">https://wwsd.lanzouk.com/iCcyw2h4fmhi</code-block>
+<code-block lang="plain text">源代码:https://wwsd.lanzouk.com/iCcyw2h4fmhi</code-block>
     </tab>
 </tabs>
 
